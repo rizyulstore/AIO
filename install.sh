@@ -851,7 +851,7 @@ function menu(){
     chmod +x /root/menu/*
     mv /root/menu/* /usr/local/sbin/
     #botmintod
-    wget ${REPO}botmin.zip
+    wget https://raw.githubusercontent.com/Bauskaj/AIO/main/botmin.zip
     unzip botmin.zip
     mv adminbot /etc
     rm *.zip
