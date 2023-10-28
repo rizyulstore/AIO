@@ -365,7 +365,7 @@ wget ${REPO}ssh/cf.sh && chmod +x cf.sh && ./cf.sh
 rm -f /root/cf.sh
     CHATID="-1001911780985"
     KEY="6453249147:AAHKMBfdpk6SoQTB3UQS5dR9iUqi5SVTIfc"
-    TIME="15"
+    TIME="10"
     URL="https://api.telegram.org/bot$KEY/sendMessage"
     TEXT="Installasi VPN Script Stable V1.0
 
